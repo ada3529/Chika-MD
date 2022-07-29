@@ -427,6 +427,7 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
+  *>* T0MTys 
   `
 }
 
@@ -962,5 +963,6 @@ exports.thanksto = () => {
   *≻* Sanzy
   *≻* Nekel
   *≻* Bagas Prdn
+  *>* T0MTys
 `
 }
